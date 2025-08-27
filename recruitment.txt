@@ -1,0 +1,11 @@
+Python
+Pandas
+NumPy 
+Scikit-learn 
+TensorFlow
+PyTorch 
+Statsmodels
+Prophet
+Matplotlib
+Seaborn
+Streamlit
